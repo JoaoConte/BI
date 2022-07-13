@@ -279,16 +279,5 @@ class Funcs():
 
         except OSError:
             print('Deu Ruim')
-        #        sg.popup('Verifique se este executavel esta na mesma pasta do Conexão.dat')
-        #        continue
-        # Conecta DB
-        # try:
-        #     if bancodados == 'SQLSERVER':
-        #         cbd_sql = pyodbc.connect("Driver=" + drive + "; Server=" + servidor + "; Database=" + banco + "; TrustedConnection=yes")
-        #         cursor = cbd_sql.cursor()
-        #
-        # except:
-        #     print('Deu Ruim')
-        # #    sg.popup('Não consegui conectar o banco de \n dados, verifique usuário e senha')
-        #     continue
+ 
 

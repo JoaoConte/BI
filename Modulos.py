@@ -19,6 +19,3 @@ import cx_Oracle
 from time import sleep
 import matplotlib.pyplot as plt
 from numpy import *
-
-
-
